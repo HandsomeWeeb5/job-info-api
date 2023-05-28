@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "order": 3,
+      "titles" : "Full Stack Web Developer",
+      "dates" : "December 2015 - Present",
+      "duties": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at molestie ipsum. Praesent ac dolor consequat, imperdiet neque a, mollis.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sed porttitor augue. Etiam mauris ante, dictum ut. ",
+        "Curabitur pharetra dui vel dictum vulputate. Nam aliquet a augue ut ullamcorper. Vestibulum ante ipsum primis in faucibus orci luctus."
+      ],
+      "company": "TOMMY"
+    },
+    {
+      "id": 2,
+      "order": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }  
+}
